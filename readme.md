@@ -1,5 +1,5 @@
 build image <br>
-docker build -t dc-python . <br>
+docker build -it dc-python . <br>
 
 run image  and clean container <br>
 
