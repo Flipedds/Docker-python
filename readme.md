@@ -1,5 +1,6 @@
-<!-- build image -->
-<!-- docker build -t dc-python . -->
+build image <br>
+docker build -t dc-python . <br>
 
-<!-- run image <Container> and clean container -->
-<!-- docker run -it --rm dc-python -->
+run image  and clean container <br>
+
+docker run -it --rm dc-python <br>
